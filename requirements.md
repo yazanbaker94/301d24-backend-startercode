@@ -44,4 +44,4 @@ and the provided api also should be requested using axios.get()
 
 - Create a search functionality that enables the user to search for a coffee type by name using the coffee api that is provided for you.
 
-- Sample request: `https://https://coffeepedias.herokuapp.com/coffee-list/?query=Black`
+- Sample request: `https://coffeepedias.herokuapp.com/coffee-list/?query=Black`
