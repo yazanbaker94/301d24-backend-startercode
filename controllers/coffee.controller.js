@@ -35,5 +35,5 @@ module.exports={
     createItemController,
     updateItemController,
     deleteItemController,
-    retreiveItemController
+    retreiveItemsController
 };
